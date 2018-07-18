@@ -24,3 +24,8 @@
    sección de estilos 
    "node_modules/bootstrap/dist/css/bootstrap.min.css",
   
+## GENERAR COMPONENTES 
+ ng generate component component-name
+ 
+ corta 
+ ng g c nombre el componente 
